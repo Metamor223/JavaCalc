@@ -14,3 +14,5 @@ A tests are will be soon
 
 # Screenshots of work
 ![Swagger-ui](https://github.com/Metamor223/JavaCalc/blob/master/изображение_2023-06-20_174934218.png)
+![used plus](https://github.com/Metamor223/JavaCalc/blob/master/изображение_2023-06-20_174911886.png)
+![get-all-calculations](https://github.com/Metamor223/JavaCalc/blob/master/изображение_2023-06-20_174954040.png)
