@@ -7,7 +7,4 @@ If you wnat to use it, you should change connection options in "application.prop
 if you dont use swagger-ui, try to use for example: "#/calc-controller/plus/(firstnumber)/(secondnumber)"
 
 # About current version
-In current version you cant use databases, just calc what you need
-Here you can use "plus", "minus", "division", "multiplication"  
-Tag "/get-all-calculations" doesn`t work right now
-A tests is will be soon
+In current version you cant use databases, just calc what you need  Here you can use "plus", "minus", "division", "multiplication"  Tag "/get-all-calculations" doesn`t work right now  A tests is will be soon
