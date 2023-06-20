@@ -10,4 +10,4 @@ if you dont use swagger-ui, try to use for example: "#/calc-controller/plus/(fir
 In current version you cant use databases, just calc what you need  
 Here you can use "plus", "minus", "division", "multiplication"  
 Tag "/get-all-calculations" doesn`t work right now  
-A tests is will be soon
+A tests are will be soon
