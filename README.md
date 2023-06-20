@@ -11,3 +11,5 @@ In current version you cant use databases, just calc what you need
 Here you can use "plus", "minus", "division", "multiplication"    
 Tag "/get-all-calculations" will show you all calculation operations in your database   
 A tests are will be soon
+
+#Screenshots of work
