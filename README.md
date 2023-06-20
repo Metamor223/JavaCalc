@@ -12,4 +12,5 @@ Here you can use "plus", "minus", "division", "multiplication"
 Tag "/get-all-calculations" will show you all calculation operations in your database   
 A tests are will be soon
 
-#Screenshots of work
+# Screenshots of work
+![Swagger-ui](https://github.com/Metamor223/JavaCalc/blob/master/изображение_2023-06-20_174934218.png)
