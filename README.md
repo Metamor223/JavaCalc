@@ -10,7 +10,7 @@ if you dont use swagger-ui, try to use for example: **#/calc-controller/plus/(fi
 In current version you can should use **PostgreSQL**    
 Here you can use *plus*, *minus*, *division*, *multiplication*    
 Tag **/get-all-calculations** will show you all calculation operations in your database   
-A tests are will be soon
+Tests is added 
 
 ---
 # Screenshots of work
